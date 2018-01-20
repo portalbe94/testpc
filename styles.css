@@ -1,0 +1,62 @@
+.head {
+
+  background-color: #931621;
+  text-align: center;
+  padding: 20px;
+
+}
+
+
+
+
+
+
+.form-inline {
+
+  width: auto;
+
+
+}
+
+.form-control {
+
+  width: 100%;
+
+}
+
+.form-group {
+
+
+
+}
+
+
+.container-fluid {
+
+
+
+}
+
+.row {
+
+
+}
+
+.col-md- {
+
+
+}
+
+.form-control-static {
+
+
+
+}
+
+#row1 {
+  background-color: red;
+}
+
+#row2 {
+  background-color: blue;
+}
